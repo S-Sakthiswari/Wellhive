@@ -71,4 +71,24 @@ Make sure the following are installed:
 2. Install dependencies:
         pip install PySide6 mysql-connector-python matplotlib reportlab
 3.Run the Homepage.py
+
+Screenshots:
+
+![IMG-20250701-WA0002](https://github.com/user-attachments/assets/ed5cf72c-5c5d-4c5e-aff1-05e24a96d6ff)
+
+![IMG-20250701-WA0005](https://github.com/user-attachments/assets/e61ac0a9-c4be-4b46-9848-6df774941d95)
+
+![IMG-20250701-WA0006](https://github.com/user-attachments/assets/01365b03-852c-4898-99c4-76f82fe456b2)
+
+![IMG-20250701-WA0007](https://github.com/user-attachments/assets/834593d2-06f1-4ba8-9ea1-322f6efb4399)
+
+![IMG-20250701-WA0008](https://github.com/user-attachments/assets/95494874-5944-4d22-a297-e3e757652bc4)
+
+![IMG-20250701-WA0009](https://github.com/user-attachments/assets/1955ff8e-39e0-4b49-847f-cdf2062d88f4)
+
+
+
+
+
+
   
